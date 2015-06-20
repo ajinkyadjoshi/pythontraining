@@ -1,0 +1,3 @@
+str = "AJinkya"
+
+print (str)
